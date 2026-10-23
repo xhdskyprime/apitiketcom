@@ -1,0 +1,75 @@
+{
+  "auth": {
+    "account_id": "YOUR_ACCOUNT_ID",
+    "device_id": "170e297e-8dc4-4a4d-9bea-a77e9eae8104",
+    "cookie": "PASTE_YOUR_TIKET_COM_COOKIE_HERE",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "search": {
+    "origin": "JKTC",
+    "destination": "DPSC",
+    "departureDate": "2026-11-06",
+    "cabinClass": "ECONOMY",
+    "adult": 2,
+    "child": 0,
+    "infant": 0,
+    "max_price": 500000,
+    "target_dates": [
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-27",
+      "2026-11-28",
+      "2026-12-04",
+      "2026-12-05",
+      "2026-12-11",
+      "2026-12-12"
+    ],
+    "preferred_airline_code": "",
+    "time_window": {
+      "earliest": "00:00",
+      "latest": "23:59"
+    }
+  },
+  "contact": {
+    "fullName": "MUHAMAD LUTFI",
+    "title": "MR",
+    "areaCode": "+62",
+    "phone": "83813450734",
+    "email": "lutfilegacy01@gmail.com"
+  },
+  "passengers": {
+    "adults": [
+      {
+        "fullName": "MUHAMAD LUTFI",
+        "firstName": "MUHAMAD",
+        "lastName": "LUTFI",
+        "title": "Mr",
+        "dob": "1999-07-25",
+        "birthDate": "1999-07-25",
+        "nationality": "ID",
+        "identityType": "ID_CARD",
+        "identityNumber": "3603030601990005"
+      },
+      {
+        "fullName": "FIRDHA AMALIA",
+        "firstName": "FIRDHA",
+        "lastName": "AMALIA",
+        "title": "Mrs",
+        "dob": "1999-03-26",
+        "birthDate": "1999-03-26",
+        "nationality": "ID",
+        "identityType": "ID_CARD",
+        "identityNumber": "3606226603990002"
+      }
+    ],
+    "childs": [],
+    "infants": []
+  },
+  "payment": {
+    "method": "VA_BCA"
+  }
+}

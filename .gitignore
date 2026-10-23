@@ -1,0 +1,24 @@
+# Sensitive personal and authentication data
+config.json
+
+# Large HTTP archives containing cookies
+*.har
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+bot_berburu.log
+
+# Temporary and scratch scripts
+scratch/
+
+# OS specific files
+.DS_Store
+Thumbs.db
